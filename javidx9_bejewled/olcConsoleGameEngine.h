@@ -1,4 +1,3 @@
-#pragma once
 /*
 OneLoneCoder.com - Command Line Game Engine
 "Who needs a frame buffer?" - @Javidx9
